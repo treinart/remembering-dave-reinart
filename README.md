@@ -1,5 +1,7 @@
 # Remembering Dave Reinart
 
+![David Reinart](cover_photo.png)
+
 **David Allen "Dave" Reinart**  
 April 27, 1954 - May 14, 2026  
 Tomah, Wisconsin
@@ -17,6 +19,12 @@ Dave built a life in Tomah through family, work, friendships, stubborn opinions,
 - [Legacy obituary](https://www.legacy.com/legacy/david-reinart)
 - [Monroe County Herald obituary](https://www.monroecountyherald.com/stories/david-allen-dave-reinart,167732)
 - [Roth Family Cremation obituary](https://www.rothfamilycremation.com/obituary/David-Reinart)
+
+![Grandpa Dave holding baby Chloe](photo1.png)
+
+![Grandpa Dave holding baby Teddy](photo2.png)
+
+![Grandpa Dave with Chloe, Blair, and Carson](photo3.png)
 
 ## Celebration Of Life
 
