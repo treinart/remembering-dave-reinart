@@ -1,0 +1,5 @@
+# Memorial site: public pages are open for indexing
+User-agent: *
+Allow: /
+
+Sitemap: https://remembering-dave-reinart.netlify.app/sitemap.xml

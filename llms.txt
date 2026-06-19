@@ -1,0 +1,32 @@
+# Remembering Dave Reinart
+
+> Celebration of Life memorial page for David Allen "Dave" Reinart of Tomah, Wisconsin.
+
+The primary site is:
+
+- https://remembering-dave-reinart.netlify.app/
+
+This site was created by Dave's family so relatives, friends, and community members can find the Celebration of Life details, read his obituary, view photos, share the memorial page, and remember Dave through stories and memories.
+
+Dave was born on April 27, 1954, and passed away on May 14, 2026. He lived in Tomah, Wisconsin, where he built his family, friendships, work, and community.
+
+## Celebration Of Life
+
+- Date: Saturday, June 20, 2026
+- Time: Starting at 2:00 p.m.
+- Location: Kelsey's Class Act Bar
+- Address: 201 Superior Avenue, Tomah, WI 54660
+
+## Obituary Links
+
+- Legacy: https://www.legacy.com/legacy/david-reinart
+- Monroe County Herald: https://www.monroecountyherald.com/stories/david-allen-dave-reinart,167732
+- Roth Family Cremation: https://www.rothfamilycremation.com/obituary/David-Reinart
+
+## Site Files
+
+- /index.html: Main memorial page.
+- /David_Reinart_Celebration_of_Life.pdf: Printable PDF version.
+- /robots.txt: Search crawler instructions.
+- /sitemap.xml: Public sitemap.
+- /humans.txt: Family note and site credit.
